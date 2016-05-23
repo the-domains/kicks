@@ -1,0 +1,28 @@
+name: KICKS
+favicon: null
+layout_spectrum: 0.3764681783504784
+typography_spectrum: 0.7372312806546688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3315123019274324
+  lightness: 0.09720637858845294
+  saturation: 0.5799244679510593
+  rhythmicContrast: 0.8090657743159682
+purpose: []
