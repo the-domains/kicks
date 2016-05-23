@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KICKS]]></title>
-        <description><![CDATA[KICKS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[KICKS Ministries - What's Happening?]]></title>
+        <description><![CDATA[KICKS Ministries - What's Happening?]]></description>
+        <link>https://thegrid.ai/kicks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 07:36:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 07:40:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kicks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b430e1-8408-4dea-ba81-732039d4bb0b.jpg">]]></description>
-            <link>undefinedsee-the-trailer-at-httpsvimeocom166661326/index.html</link>
+            <link>https://thegrid.ai/kicks/see-the-trailer-at-httpsvimeocom166661326/index.html</link>
             <guid isPermaLink="false">7ffc99a6-dc08-43d0-b578-a90b413767d7</guid>
-            <pubDate>Mon, 23 May 2016 07:36:06 GMT</pubDate>
+            <pubDate>Mon, 23 May 2016 07:39:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
